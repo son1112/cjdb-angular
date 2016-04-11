@@ -1,0 +1,661 @@
+{
+    "products": [
+        {
+            "gauge":"14",
+            "size":"1/2",
+            "desc":"CJ Banana E 5X8mm clear",
+            "id":"CJ001",
+            "price":"$25",
+            "supply":"Metal Mafia"
+        },
+        {
+            "gauge":"16","size":"1/4","desc":"Tragus Cascading Ext leftside Clear","id":"CJ002","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"1/4","desc":"Tragus Cascading Ext rightside Clear","id":"CJ003","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"1/4","desc":"Tragus Cascading Ext Opal Blue","id":"CJ004","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"1/4","desc":"Tragus Cascading Ext Opal White","id":"CJ005","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"1/4","desc":"Tragus Sparrow Ext","id":"CJ006","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Navel 5x8mm CL","id":"CJ007","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"BNED 5x8mm CL","id":"CJ008","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring 5mm CL","id":"CJ010","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm CL","id":"CJ011","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Curved Barbell E CL","id":"CJ012","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Curved Barbell E CL","id":"CJ013","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm CL","id":"CJ014","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Labret E 3mm CL","id":"CJ015","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Captive Bead Ring 4mm Black","id":"CJ016","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/16","desc":"Captive Bead Ring 4mm Black","id":"CJ017","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/8","desc":"Captive Bead Ring 5mm Black","id":"CJ018","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Captive Bead Ring 4mm Black","id":"CJ019","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm Black","id":"CJ020","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Captive Bead Ring 3mm Black","id":"CJ021","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"3/8","desc":"Captive Bead Ring 3mm Black","id":"CJ022","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"5/16","desc":"Captive Bead Ring 3mm Black","id":"CJ023","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Curved Barbell E 4mm Black","id":"CJ024","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Curved Barbell 4mm Black","id":"CJ025","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Curved Barbell E 3mm Black","id":"CJ026","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Horse Shoe E 3mm Black","id":"CJ027","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm","id":"CJ028","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/16","desc":"Labret E 4mm","id":"CJ029","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"1/4","desc":"Labret E 3mm Black","id":"CJ030","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Labret E 3mm Black","id":"CJ031","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Labret E 3mm SP","id":"CJ0322","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Labret E 3mm LG","id":"CJ0323","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Labret E 3mm AB","id":"CJ0324","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Labret E 3mm PK","id":"CJ0325","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Labret E 3mm AQ","id":"CJ0326","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Labret E 3mm BZ","id":"CJ0327","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Labret E 3mm DG","id":"CJ0328","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Labret E 3mm TZ","id":"CJ0329","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Labret E 3mm Black","id":"CJ032","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Labret E 3mm BK","id":"CJ0330","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Labret E 3mm CL","id":"CJ0331","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"15","size":"5/16","desc":"Curved Barbell E Black","id":"CJ0332","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/16","desc":"Septum Clicker","id":"CJ0333","price":"$35","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"3/8","desc":"14kt Gold Septum Jewelry 18g","id":"CJ0334","price":"$45","supply":"Painful Pleasures"},
+        {
+            "gauge":"18","size":"3/8","desc":"Gold Plated KWS4 Septum Jewelry","id":"CJ0335","price":"$45","supply":"Painful Pleasures"},
+        {
+            "gauge":"18","size":"5/16","desc":"Gold Plated Tribal Fan Septum Ring","id":"CJ0336","price":"$45","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"7/16","desc":"Navel EXT Orchid Dark Blue","id":"CJ0337","price":"$35","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"3/8","desc":"Titanium Circular Barbell EXT Charcoal","id":"CJ0338","price":"$20","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"3/8","desc":"Titanium Circular Barbell EXT Gold","id":"CJ0339","price":"$20","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm cone","id":"CJ033","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Navel EXT Double Prong Clear","id":"CJ0340","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"3/8","desc":"Navel EXT Flower Purple","id":"CJ0341","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"18","size":null,"desc":"Nostril Pin Gold Plated CZ","id":"CJ0342","price":"$25","supply":"Painful Pleasures"},
+        {
+            "gauge":"18","size":"3/8","desc":"Circ. Barbell Tit. Charcoal","id":"CJ0343","price":"$20","supply":"Painful Pleasures"},
+        {
+            "gauge":"18","size":"3/8","desc":"Circ. Barbell Tit. Gold","id":"CJ0344","price":"$20","supply":"Painful Pleasures"},
+        {
+            "gauge":"16","size":"5/16","desc":"Labret E 3mm Cone Black","id":"CJ034","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"5/16","desc":"Nose Hoop Black","id":"CJ035","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Seamless Ring Black","id":"CJ036","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Seamless Ring Black","id":"CJ037","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"3/8","desc":"Seamless Ring Black","id":"CJ038","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"5/16","desc":"Seamless Ring Black","id":"CJ039","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Navel Barbell w/ Dangle Fan","id":"CJ040","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Navel Prong Butterfly CZ","id":"CJ041","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/4","desc":"Navel Prong Butterfly Pink","id":"CJ042","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Navel 14g 3/8 Flower CZ","id":"CJ043","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Navel Prong Octagon 5mm Aqua","id":"CJ044","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Navel Prong Octagon 5mm Pink","id":"CJ045","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Navel Prong Octagon 5mm Clear","id":"CJ046","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/8mm","desc":"Navel E Dbl Gem 5/8mm","id":"CJ047","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/8mm","desc":"Naval E 5x8mm","id":"CJ048","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Navel E Clear 5x8mm","id":"CJ049","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1-1/2","desc":"Industrial E","id":"CJ050","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1-1/4","desc":"Industrial  5mm","id":"CJ051","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1","desc":"Straight Barbell E","id":"CJ052","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/4","desc":"Straight Barbell E 4mm","id":"CJ053","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Straight Barbell 4mm","id":"CJ054","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/16","desc":"Straight Barbell 4mm","id":"CJ056","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/8","desc":"Straight Barbell 4mm","id":"CJ057","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Straight Barbell 4mm","id":"CJ058","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/8","desc":"Straight Barbell 4mm","id":"CJ05","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"1/4","desc":"Straight Barbell 3mm","id":"CJ060","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Straight Barbell 3mm","id":"CJ061","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"7/16","desc":"Straight Barbell 3mm","id":"CJ062","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"5/16","desc":"Straight Barbell 3mm","id":"CJ063","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"1-1/4","size":null,"desc":"Industrial Sparrow","id":"CJ064","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring 5mm","id":"CJ065","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/4","desc":"Captive Bead Ring 4mm","id":"CJ066","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Captive Bead Ring 4mm","id":"CJ067","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/16","desc":"Captive Bead Ring 4MM","id":"CJ068","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/8","desc":"Captive Bead Ring 5mm","id":"CJ069","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Captive Bead Ring 5mm","id":"CJ070","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"9/16","desc":"Captive Bead Ring 5mm","id":"CJ071","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"1/2","desc":"Captive Bead Ring 3mm","id":"CJ072","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"1/4","desc":"Captive Bead Ring 3mm","id":"CJ073","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3MM","id":"CJ074","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Captive Bead Ring 3MM","id":"CJ075","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"7/16","desc":"Captive Bead Ring 3mm","id":"CJ076","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"1/4","desc":"Captive Bead Ring 3MM","id":"CJ077","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"3/8","desc":"Captive Bead Ring 3MM","id":"CJ078","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"5/16","desc":"Captive Bead Ring 3MM","id":"CJ079","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"20","size":"1/4","desc":"Captive Bead Ring 3MM","id":"CJ080","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"20","size":"3/8","desc":"Captive Bead Ring 3MM","id":"CJ081","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring Honey Comb","id":"CJ082","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring Diamond White","id":"CJ083","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring Diamond Onyx","id":"CJ084","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring Diamond Turquoise","id":"CJ085","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring Steam Punk","id":"CJ086","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring Steampunk","id":"CJ087","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring Silver Rose","id":"CJ088","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring Sparrow","id":"CJ089","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"10","size":null,"desc":"Taper Steel Curved 10g","id":"CJ090","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"12","size":null,"desc":"Taper Steel Curved 12g","id":"CJ091","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":null,"desc":"Taper Steel Curved 14g","id":"CJ092","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"6","size":null,"desc":"Taper Steel Curved 6g","id":"CJ094","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"8","size":null,"desc":"Taper Steel Cuved 8g","id":"CJ095","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Curved Barbell 4mm","id":"CJ096","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Curved Barbell 4mm","id":"CJ097","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/16","desc":"Curved Barbell 4mm","id":"CJ098","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/8","desc":"Curved Barbell 4mm","id":"CJ099","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Curved Barbell 4mm","id":"CJ100","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval 4/6MM","id":"CJ101","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"9/16","desc":"Curved Barbell 4mm","id":"CJ102","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"1/4","desc":"Curved Barbell 3mm","id":"CJ103","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Curved Barbell 3mm","id":"CJ105","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"1/4","desc":"Curved Barbell 3mm","id":"CJ106","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"5/16","desc":"Curved Barbell 3mm","id":"CJ108","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Horseshoe E 5mm","id":"CJ109","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Horseshoe E 4MM","id":"CJ110","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Horseshoe E 5MM","id":"CJ112","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"1/4","desc":"Horseshoe E 3MM","id":"CJ113","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Horseshoe E 3MM","id":"CJ114","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"7/16","desc":"Horseshoe E 4MM","id":"CJ115","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/4","desc":"Horseshoe E 3MM","id":"CJ116","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"3/8","desc":"Horseshoe E 3MM","id":"CJ117","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"5/16","desc":"Horseshoe E 3MM","id":"CJ118","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Horseshoe CONES","id":"CJ119","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Horseshoe E CONES","id":"CJ120","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"3/8","desc":"Horseshoe E","id":"CJ121","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/4","desc":"Labret","id":"CJ122","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret 14G","id":"CJ123","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/16","desc":"Labret 4MM","id":"CJ124","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"1/4","desc":"Labret 16G","id":"CJ125","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"3/8","desc":"Nose Hoop","id":"CJ126","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"5/16","desc":"Nose Hoop","id":"CJ127","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"20","size":"3/8","desc":"Nose Hoop","id":"CJ128","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"20","size":"5/16","desc":"Nose Hoop","id":"CJ129","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"5/8","desc":"Nose Pin Dome","id":"CJ130","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"1/2","desc":"Nose Pin OPAL 2.3MM","id":"CJ131","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"1/2","desc":"Nose Pin 2.3MM Purple","id":"CJ132","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"1/2","desc":"Nose Pin 2.3MM White","id":"CJ133","price":"$20","supply":"Metal Mafia"},
+        {
+            "gauge":"20","size":"5/8","desc":"Nose Pin 20G","id":"CJ134","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"20","size":"5/8","desc":"Nose Pin 20G","id":"CJ135","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"20","size":"5/8","desc":"Nose Pin CL","id":"CJ136","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"20","size":"5/8","desc":"Nose Pin LG","id":"CJ137","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/8","desc":"Nipple Stirrup","id":"CJ138","price":"$30","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"9/16","desc":"Nipple Stirrup","id":"CJ139","price":"$35","supply":"Metal Mafia"},
+        {
+            "gauge":"10","size":"1/2","desc":"Pinchers","id":"CJ140","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"12","size":"3/8","desc":"Pinchers","id":"CJ141","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Pinchers","id":"CJ142","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Pinchers","id":"CJ143","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"8","size":"1/2","desc":"Pinchers","id":"CJ144","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"5/16","desc":"Septum Clicker Black","id":"CJ145","price":"$35","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"1/4","desc":"Septum Clicker Black","id":"CJ146","price":"$35","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Septum Clicker","id":"CJ147","price":"$35","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Septum Clicker","id":"CJ148","price":"$35","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Septum Clicker Black","id":"CJ149","price":"$35","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Septum Clicker","id":"CJ150","price":"$35","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"3/8","desc":"Heart Shaped Seamless Ring","id":"CJ151","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"5/16","desc":"Heart Shaped Seamelss Ring","id":"CJ152","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Seamless Ring","id":"CJ153","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"3/8","desc":"Seamless Ring","id":"CJ154","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":"5-16","desc":"Seamless Ring","id":"CJ155","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"0","size":null,"desc":"Taper Steel Straight 0g","id":"CJ156","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"10","size":null,"desc":"Taper Steel Straight 10g","id":"CJ157","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"12","size":null,"desc":"Taper Steel Straight 12g","id":"CJ158","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":null,"desc":"Taper Steel Straight 14g","id":"CJ159","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":null,"desc":"Taper Steel Straight 16g","id":"CJ160","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"18","size":null,"desc":"Taper Steel Straight 18g","id":"CJ161","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"2","size":null,"desc":"Taper Steel Straight 2g","id":"CJ162","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"4","size":null,"desc":"Taper Steel Straight 4g","id":"CJ163","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"6","size":null,"desc":"Taper Steel Straight 6g","id":"CJ164","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"8","size":null,"desc":"Taper Steel Straight 8g","id":"CJ165","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"20","size":null,"desc":"Steel Earing Prong Set","id":"CJ166","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"20","size":null,"desc":"Steel Earing Prong Set","id":"CJ167","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"0","size":null,"desc":"Single Flair Tunnel 0g","id":"CJ177","price":"$10","supply":"Metal Mafia"},
+        {
+            "gauge":"10","size":null,"desc":"Single Flair Tunnel 10G","id":"CJ178","price":"$10","supply":"Metal Mafia"},
+        {
+            "gauge":"4","size":null,"desc":"Single Flair Tunnel 4G","id":"CJ179","price":"$10","supply":"Metal Mafia"},
+        {
+            "gauge":"8","size":null,"desc":"Single Flair Tunnel 8G","id":"CJ180","price":"$10","supply":"Metal Mafia"},
+        {
+            "gauge":"8","size":null,"desc":"Single Flair Tunnel 8G","id":"CJ181","price":"$10","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Navel Cat's Eye Light Blue","id":"CJ182","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"7/16","desc":"Navel Pearl BZ","id":"CJ183","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval Tear Drop BL","id":"CJ184","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"7/16","desc":"Navel EXT Diamond","id":"CJ185","price":"$35","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval Dangle CZ","id":"CJ186","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"7/16","desc":"Navel Blue Flower","id":"CJ187","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval EXT Prong 13mm CZ","id":"CJ188","price":"$35","supply":"Painful Pleasures"},
+        {
+            "gauge":"$35.00","size":null,"desc":"Navel E Row of Stones","id":"CJ189","price":" CL","supply":"14g 7/16"},
+        {
+            "gauge":"16","size":"3/8","desc":"Eyebrow Retainer Acrylic Soft","id":"CJ190","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"3/8","desc":"Naval EXT Squares Aqua","id":"CJ191","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"3/8","desc":"Naval E Squares CZ","id":"CJ192","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval EXT Prong Set CZ w/loop","id":"CJ193","price":"$35","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"5/8","desc":"Straight Barbell Half Ball","id":"CJ194","price":"$20","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"5/8","desc":"Straight Barbell Single Jewel  Black","id":"CJ195","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"5/8","desc":"Straight Barbell Single Jewel","id":"CJ196","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"5/8","desc":"Straight Barbell Single Jewel","id":"CJ197","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"5/8","desc":"Straight Barbell Single Jewel","id":"CJ198","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"5/8","desc":"Tongue Single Jewel CZ","id":"CJ199","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"1-1/2","desc":"Industrial Single Jewel 14g 1-1/2","id":"CJ200","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"1-1/2","desc":"Industrial Single Jewel 14g 1-1/2","id":"CJ201","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"1-1/2","desc":"Industrial Single Jewel","id":"CJ203","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"1-1/2","desc":"Industrial Black Wave","id":"CJ204","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"5/8","desc":"Straight Barbell Single Jewel","id":"CJ205","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"5/8","desc":"Acrylic Tongue Retainer Clear","id":"CJ206","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"5/8","desc":"Acrylic Tongue Retainer Pink","id":"CJ207","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":null,"desc":"Crystal Hear Captive Bead Ring","id":"CJ208","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"20","size":"3/8","desc":"Fixed Ball Ring","id":"CJ209","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"20","size":"5/16","desc":"Fixed Ball Ring","id":"CJ210","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"18","size":"3/8","desc":"Fixed Bead Ring","id":"CJ211","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"18","size":"5/16","desc":"Fixed Bead Ring","id":"CJ212","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"3/8","desc":"Fixed Bead Ring 4mm Ball","id":"CJ213","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"16","size":"3/8","desc":"Fixed Bead Ring 4mm Ball","id":"CJ214","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"16","size":"5/16","desc":"Fixed Bead Ring","id":"CJ215","price":"$15","supply":"Painful Pleasures"},
+        {
+            "gauge":"18","size":"5/16","desc":"Fixed Bead Ring","id":"CJ216","price":"$25","supply":"Painful Pleasures"},
+        {
+            "gauge":"18","size":"3/8","desc":"Fixed Bead Ring","id":"CJ217","price":"$25","supply":"Painful Pleasures"},
+        {
+            "gauge":"7mm","size":null,"desc":"Silicon Flat Disc 7mm","id":"CJ217","price":"$10","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval 5x8mm Double Gem Cl","id":"CJ218","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":null,"size":null,"desc":"Sliver Plated Trquoise Clipon Septum","id":"CJ218","price":"$30","supply":"Painful Pleasures"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval 5x8mm AB","id":"CJ219","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval 5x8mm PK","id":"CJ220","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval 5x8mm AQ","id":"CJ221","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval 5/8xmm BZ","id":"CJ222","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval 5/8xmm DG","id":"CJ223","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval 5/8xmm TZ","id":"CJ224","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval 5/8xmm BK","id":"CJ225","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval 5/8xmm RD","id":"CJ226","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval 5/8xmm RD","id":"CJ227","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"7/16","desc":"Naval 5/8xmm LG","id":"CJ228","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Navel 5/8xmm AB","id":"CJ229","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Naval 5/8xmm PK","id":"CJ230","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Naval 5/8xmm PK","id":"CJ231","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Navel 5/8xmm AQ","id":"CJ232","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Navel 5/8xmm BZ","id":"CJ233","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Navel 5/8xmm DG","id":"CJ234","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Navel 5/8xmm DG","id":"CJ235","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Naval 5/8xmm DG","id":"CJ236","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Navel 5/8xmm TZ","id":"CJ238","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Naval 5/8xmm BK","id":"CJ239","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Navel 5/8xmm RD","id":"CJ240","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Naval 5/8xmm SP","id":"CJ241","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Navel 5/8xmm LG","id":"CJ242","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm AB","id":"CJ243","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm PK","id":"CJ244","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm PK","id":"CJ245","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm AQ","id":"CJ246","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm BZ","id":"CJ247","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm DG","id":"CJ248","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm TZ","id":"CJ250","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm BK","id":"CJ251","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm RD","id":"CJ252","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm SP","id":"CJ253","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Labret E 4mm LG","id":"CJ254","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Labret E 3mm AB","id":"CJ255","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Labret E 3mm PK","id":"CJ257","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Labret E 3mm AQ","id":"CJ258","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Labret E 3mm BZ","id":"CJ259","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Labret E 3mm DG","id":"CJ261","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Labret E 3mm TZ","id":"CJ262","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Labret E 3mm BK","id":"CJ263","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Labret E 3mm RD","id":"CJ264","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Labret E 3mm SP","id":"CJ265","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Labret E 3mm LG","id":"CJ266","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Curved Barbell 3mm AB","id":"CJ267","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Curved Barbell 3mm PK","id":"CJ269","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Curved Barbell 3mm AQ","id":"CJ270","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Curved Barbell 3mm BZ","id":"CJ271","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Curved Barbell 3mm DG","id":"CJ272","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Curved Barbell 3mm TZ","id":"CJ273","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Curved Barbell 3mm BK","id":"CJ274","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Curved Barbell 3mm RD","id":"CJ275","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Curved Barbell 3mm SP","id":"CJ276","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Curved Barbell 3mm LG","id":"CJ277","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Curved Barbell 3mm AB","id":"CJ278","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Curved Barbell 3mm PK","id":"CJ280","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Curved Barbell 3mm AQ","id":"CJ281","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Curved Barbell 3mm BZ","id":"CJ282","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Curved Barbell 3mm DG","id":"CJ283","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Curved Barbell 3mm TZ","id":"CJ284","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Curved Barbell 3mm BK","id":"CJ285","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Curved Barbell 3mm RD","id":"CJ286","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Curved Barbell 3mm SP","id":"CJ287","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Curved Barbell 3mm LG","id":"CJ288","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Navel 5x8mm E AB","id":"CJ289","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Naval 5x8mm E PK","id":"CJ290","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Navel 5x8mm E AQ","id":"CJ291","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Naval 5x8mm E BZ","id":"CJ292","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Naval 5x8mm E BZ","id":"CJ293","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Naval 5x8mm E DG","id":"CJ294","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Naval 5x8mm E TZ","id":"CJ295","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Naval 5x8mm E BK","id":"CJ296","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Naval 5x8mm E RD","id":"CJ297","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Naval 5x8mm E SP","id":"CJ298","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"3/8","desc":"Naval 5x8mm E LG","id":"CJ299","price":"$25","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring 5mm AB","id":"CJ300","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring 5mm PK","id":"CJ301","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring 5mm AQ","id":"CJ302","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring 5mm BZ","id":"CJ303","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring 5mm DG","id":"CJ304","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring 5mm TZ","id":"CJ305","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring 5mm BK","id":"CJ306","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring 5mm RD","id":"CJ307","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring 5mm SP","id":"CJ308","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"14","size":"1/2","desc":"Captive Bead Ring 5mm LG","id":"CJ309","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm AB","id":"CJ310","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm PK","id":"CJ311","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm AB","id":"CJ312","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm AQ","id":"CJ313","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm BZ","id":"CJ314","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm DG","id":"CJ315","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm DG??","id":"CJ316","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm TZ","id":"CJ317","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm BK","id":"CJ318","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm RD","id":"CJ319","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm SP","id":"CJ320","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"3/8","desc":"Captive Bead Ring 3mm LG","id":"CJ321","price":"$15","supply":"Metal Mafia"},
+        {
+            "gauge":"16","size":"5/16","desc":"Labret E 3mm RD","id":"CJ321","price":"$15","supply":"Metal Mafia"
+        }
+    ]
+}

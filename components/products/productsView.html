@@ -1,0 +1,39 @@
+
+<md-input-container>
+  <label>Description</label>
+  <textarea type="text" ng-model="product.desc"></textarea>
+</md-input-container>
+<md-input-container>
+  <label>ID</label>
+  <textarea type="text" ng-model="product.id"></textarea>
+</md-input-container>
+<md-input-container>
+  <label>Gauge</label>
+  <textarea type="text" ng-model="product.gauge"></textarea>
+</md-input-container>
+<md-input-container>
+  <label>Size</label>
+  <textarea type="text" ng-model="product.size"></textarea>
+</md-input-container>
+
+<md-button class="md-raised md-warn" ng-click="product.addProduct()">Add</md-button>
+
+<md-content flex id="content">
+  <md-list>
+    <md-list-item class="md-3-line" ng-repeat="product in products">
+      <div class="md-list-item-text">
+        <h1>{{ product.desc }}</h1>
+        <span>{{ product.id }}</span>
+        <p>{{ product.gauge }}g, {{ product.size }}"</p>
+      </div>
+
+      <md-divider md-inset></md-divider>
+
+      <md-icon class="remove-product"
+               ng-if="productItem.user.username === loggedInUserData.username"
+               ng-click="product.deleteProduct(productItem)">
+        X
+      </md-icon>
+    </md-list-item>
+  </md-list>
+</md-content>
